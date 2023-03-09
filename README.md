@@ -1,7 +1,5 @@
 # To-do List - React App
 
-<img src="https://github.com/ShinjiX-Web/to-do-list/blob/main/To-Do.PNG">
-
 # Changelog:
 
 - Added Empty Task validation rule. Users cannot add an empty task.
